@@ -15,7 +15,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: '<h1>My First Angular App</h1>'
+            template: "  \n    <landup-carousel></landup-carousel>\n    <landup-home></landup-home>\n    <landup-menu></landup-menu>\n  "
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

@@ -1,10 +1,10 @@
 import { Component } from '@angular/core';
 @Component({
   selector: 'my-app',
-  template: `  
+  template: `
+    <landup-menu></landup-menu>  
     <landup-carousel></landup-carousel>
-    <landup-home></landup-home>
-    <landup-menu></landup-menu>
+    <landup-home></landup-home>    
   `
 })
 export class AppComponent { }

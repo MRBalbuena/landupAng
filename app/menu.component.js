@@ -16,6 +16,7 @@ var MenuComponent = (function () {
         core_1.Component({
             selector: 'landup-menu',
             templateUrl: '/app/menu.component.html',
+            styleUrls: ['app/menu.component.css']
         }), 
         __metadata('design:paramtypes', [])
     ], MenuComponent);

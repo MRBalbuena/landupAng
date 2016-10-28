@@ -15,7 +15,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            template: "  \n    <landup-carousel></landup-carousel>\n    <landup-home></landup-home>\n    <landup-menu></landup-menu>\n  "
+            template: "\n    <landup-menu></landup-menu>  \n    <landup-carousel></landup-carousel>\n    <landup-home></landup-home>    \n  "
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
